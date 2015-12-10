@@ -1,0 +1,6 @@
+[vagrant]
+196.165.75.76
+
+[vagrant:vars]
+vhostTemplatePath=templates/vhost.conf
+mysqlTemplatePath=templates/mysql
