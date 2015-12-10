@@ -9,7 +9,7 @@ To make use of these files, you'll need to have the following prerequisites inst
 * [VirtualBox](https://www.virtualbox.org/)
 * [Vagrant](http://www.vagrantup.com/)
 * [Ansible](http://www.ansibleworks.com)
-* [python-wordpress-xmlrpc](in terminal: sudo easy_install python-wordpress-xmlrpc ) 
+* python-wordpress-xmlrpc (how to install : sudo easy_install python-wordpress-xmlrpc ) 
 
 ## What It Does
 
