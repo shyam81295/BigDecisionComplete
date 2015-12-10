@@ -1,4 +1,8 @@
-## Prerequisites
+## Programming Question's Solutions:
+
+It is provided in the `ProgrammingSolutions` folder, in this repository.
+
+## Prerequisites for Automation assignment:
 
 To make use of these files, you'll need to have the following prerequisites installed on your workstation:
 
